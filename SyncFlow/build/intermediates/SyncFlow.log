@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  gui.cpp
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(99,22): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(106,41): error C2440: '=': cannot convert from 'long (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'WNDPROC'
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(106,28): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+  Generating Code...
