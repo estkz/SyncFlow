@@ -170,7 +170,6 @@
     <ClInclude Include="SyncFlow\features.h" />
     <ClInclude Include="memory\globals.h" />
     <ClInclude Include="memory\memory.h" />
-    <ClInclude Include="menu\components.h" />
     <ClInclude Include="menu\gui.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

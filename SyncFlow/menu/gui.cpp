@@ -1,6 +1,5 @@
 // Menu Related Includes
 #include "../menu/gui.h"
-#include "../menu/components.h"
 #include "../memory/globals.h"
 
 // ImGui DirectX9 Related Includes
@@ -289,7 +288,9 @@ void gui::Render() noexcept
 		ImGuiWindowFlags_NoScrollbar
 	);
 
-	ImGui::Checkbox("Godmode", &globals::godmodeCB);
+	ImGui::Checkbox("Godmode", &globals::godmode);
+	ImGui::Checkbox("Infinite Armor", &globals::armor);
+	ImGui::Checkbox("Infinite Ammo | MTP", &globals::ammo);
 
 	ImGui::End();
 }

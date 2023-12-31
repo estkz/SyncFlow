@@ -6,13 +6,36 @@ namespace globals
 {
 	inline std::uintptr_t clientAddress = 0;
 
-	inline bool godmodeCB = false;
+	// =-=-=-=-=-=-=-=-= //
+	//  Menu Components  //
+	// =-=-=-=-=-=-=-=-= //
+
+	// Checkbox
+	inline bool godmode = false;
+	inline bool armor = false;
+	inline bool ammo = false;
 }
 
 namespace offsets
 {
 	const auto dwLocalPlayer = 0x10F4F4;
-	const auto dwEntityList = 0x4; // unknown
+	const auto dwEntityList = 0x10F4F8;
+
+	const auto m_posHeadPositionX = 0x4;
+	const auto m_posHeadPositionY = 0x8;
+	const auto m_posHeadPositionZ = 0xC;
+	const auto m_posPlayerPositionX = 0x34;
+	const auto m_posPlayerPositionY = 0x38;
+	const auto m_posPlayerPositionZ = 0x3C;
 
 	const auto m_iHealth = 0xF8;
+	const auto m_ArmorValue = 0xFC;
+
+	const auto m_tmpAmmo = 0x140;
+	const auto m_v19Ammo = 0x144;
+	const auto m_aapdAmmo = 0x148;
+	const auto m_ad91Ammo = 0x14C;
+	const auto m_mtp57Ammo = 0x150;
+	const auto m_GrenadeValue = 0x158;
+	const auto m_mk77Ammo = 0x15C;;
 }

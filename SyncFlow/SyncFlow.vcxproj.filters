@@ -74,9 +74,6 @@
     <ClInclude Include="menu\gui.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="menu\components.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="memory\memory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
