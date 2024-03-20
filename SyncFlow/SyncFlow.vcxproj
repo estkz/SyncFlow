@@ -155,6 +155,7 @@
     <ClCompile Include="imgui\imgui_tables.cpp" />
     <ClCompile Include="imgui\imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="menu\icons.cpp" />
     <ClCompile Include="SyncFlow\features.cpp" />
     <ClCompile Include="menu\gui.cpp" />
   </ItemGroup>
@@ -167,6 +168,7 @@
     <ClInclude Include="imgui\imstb_rectpack.h" />
     <ClInclude Include="imgui\imstb_textedit.h" />
     <ClInclude Include="imgui\imstb_truetype.h" />
+    <ClInclude Include="menu\icons.h" />
     <ClInclude Include="SyncFlow\features.h" />
     <ClInclude Include="memory\globals.h" />
     <ClInclude Include="memory\memory.h" />

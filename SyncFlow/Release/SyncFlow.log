@@ -1,0 +1,39 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  icons.cpp
+  features.cpp
+  gui.cpp
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(333,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(398,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(399,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(412,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(420,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(428,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(428,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(442,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(450,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(450,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(464,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(472,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(472,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(495,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(510,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(534,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(555,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(581,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(611,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(626,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(648,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(672,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+C:\Users\nink4\OneDrive\Desktop\SyncFlow\SyncFlow\menu\gui.cpp(687,23): warning C4244: 'argument': conversion from 'float' to 'ImGuiSeparatorFlags', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1808 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SyncFlow.vcxproj -> C:\Users\nink4\OneDrive\Desktop\SyncFlow\Release\SyncFlow.exe

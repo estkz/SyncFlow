@@ -13,6 +13,7 @@ int __stdcall wWinMain(HINSTANCE instance, HINSTANCE previousInstance, PWSTR arg
 
 	globals::clientAddress = memory.GetModuleAddress("ac_client.exe");
 
+	std::thread(features::AimbotThread, memory).detach();
 	std::thread(features::TrainerThread, memory).detach();
 
 	gui::CreateHWindow("SyncFlow");
